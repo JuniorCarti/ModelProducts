@@ -1,0 +1,36 @@
+package com.example.alicehealth;
+
+public class Constants {
+    //product categories
+
+    public static final String[] productCategories = {
+            "Beverages",
+            "Beauty & Personal care",
+            "Baby Kids",
+            "Biscuits Snacks & Chocolates",
+            "Breakfast & Diary",
+            "Cooking Needs",
+            "Frozen Food",
+            "Fruits",
+            "Pet Cate",
+            "Pharmacy",
+            "Vegetables",
+            "Others"
+    };
+    public static final String[] productCategories1 = {
+            "All",
+            "Beverages",
+            "Beauty & Personal care",
+            "Baby Kids",
+            "Biscuits Snacks & Chocolates",
+            "Breakfast & Diary",
+            "Cooking Needs",
+            "Frozen Food",
+            "Fruits",
+            "Pet Cate",
+            "Pharmacy",
+            "Vegetables",
+            "Others"
+    };
+}
+
